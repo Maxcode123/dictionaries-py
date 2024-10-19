@@ -1,0 +1,7 @@
+line-length = 80
+show-fixes = true
+
+[format]
+quote-style = "double"
+line-ending = "auto"
+docstring-code-format = true
